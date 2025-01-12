@@ -1,0 +1,60 @@
+{
+  "courses": [
+    {
+      "name": "Telugu",
+      "id": "1"
+    },
+    {
+      "name": "english",
+      "id": "2"
+    },
+    {
+      "id": "3d0d",
+      "name": "maths"
+    }
+  ],
+  "coursetypes": [
+    {
+      "type": "indiviual",
+      "id": "1"
+    },
+    {
+      "type": "group",
+      "id": "2"
+    },
+    {
+      "type": "special",
+      "id": "3"
+    },
+    {
+      "id": "4739",
+      "type": "weekend"
+    }
+  ],
+  "courseofferings": [
+    {
+      "name": "Telugu",
+      "type": "indiviual",
+      "id": "1",
+      "stuents":[]
+    },
+    {
+      "name": "English",
+      "type": "group",
+      "id": "2",
+      "stuents":[]
+    },
+    {
+      "name": "english",
+      "type": "special",
+      "id": "3",
+      "stuents":[]
+    },
+    {
+      "id": "84f5",
+      "name": "maths",
+      "type": "weekend",
+      "students":["hey","bro"]
+    }
+  ]
+}
